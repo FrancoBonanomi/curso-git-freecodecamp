@@ -1,1 +1,3 @@
 HOLA GENTE DE FREECODECAMP
+
+forzando un error en la linea 3
