@@ -17,3 +17,7 @@ para poder eliminar el ultimo **_commit_** en mi repositorio local debo ejecutar
 ## Incorporar ramas remotas al repositorio local
 
 Para poder incorporar ramas remotas a mi repositorio local, puedo ejecutar el comando: `git fetch origin "nombre de la rama"`, de esta manera, git fetch corroborara que hay una rama remota que no tenemos localmente, luego debemos ejecutar `git checkout "nombre de la rama"`, en este caso `git fetch` detecta una rama remota nueva y nos crea una rama local con todos esos cambios.
+
+## Flujo basico de Git y Github
+
+![flujo basico](git.png)
